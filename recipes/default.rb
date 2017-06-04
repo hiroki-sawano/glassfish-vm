@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: vm
+# Cookbook Name:: glassfish-vm
 # Recipe:: default
 #
 # Copyright (C) 2017 YOUR_NAME
